@@ -1,0 +1,30 @@
+Who is James Gosling
+
+He was born in: James Arthur Gosling May 19, 1955, Canada
+James Gosling attended William Aberhart High School in Calgary, Alberta. He contributed to software for analyzing data from the ISIS 2 satellite while working at the University of Calgary. He holds a Bachelor of Science from the University of Calgary and an M.A. and Ph.D. in computer science from Carnegie Mellon University. During his doctorate, he developed Gosling Emacs (Gosmacs) and built a multi-processor version of Unix for a 16-way computer system. He later worked at Sun Microsystems, where he developed several compilers and mail systems. Gosling has two children, Katie and Kelsey, from two marriages.
+
+
+His carrier
+
+James Gosling worked at Sun Microsystems from 1984 to 2010, where he invented NeWS, an early Unix windowing system, and is best known as the father of the Java programming language, which he created in 1994. He developed Java's original design, compiler, and virtual machine. He left Sun in 2010 after its acquisition by Oracle, citing ethical concerns and changes in his role. Gosling later worked at Google, joined Liquid Robotics, which was acquired by Boeing, and moved to Amazon Web Services as a Distinguished Engineer in 2017. He retired in July 2024. He also serves as an advisor and board member for several companies.
+
+
+
+Gosling Emacs
+
+Gosling Emacs (also known as "Gosmacs" or "gmacs") was an early Emacs implementation written in 1981 by James Gosling in C. Initially, Gosling allowed it to be freely redistributed, following the "Emacs commune" tradition. However, after failing to find maintainers for his version, he sold it to UniPress, who agreed to reasonable terms. This led to a dispute with Richard Stallman, which eventually inspired the creation of the first formal Emacs license, later becoming the GPL, following the introduction of software copyright in 1980.
+
+
+
+Java
+
+
+Java is a high-level, object-oriented programming language designed for minimal implementation dependencies. It follows the "write once, run anywhere" (WORA) principle, allowing compiled Java code to run on any platform with a Java Virtual Machine (JVM). Its syntax is similar to C and C++, but with fewer low-level features. Java's dynamic capabilities, such as reflection and runtime code modification, distinguish it from traditional compiled languages.
+Originally developed by James Gosling at Sun Microsystems and released in 1995, Java has remained popular, though its use has declined recently in favor of other JVM languages. The OpenJDK JVM is the official reference implementation, and as of March 2024, Java 22 is the latest version, with previous LTS versions 8, 11, 17, and 21 still supported.
+
+
+
+
+Syntax
+
+Java's syntax is very similar to C++ and C, but it is exclusively object-oriented. All code is in classes, and all data is an object, except for primitive data types (e.g. integers, floating point numbers, logical values, characters). Elements carried over from C++ include the printf method. Java does not support operator overloading and multiple inheritance of classes (except for interfaces). It uses three comment formats: single-line (//), multi-line (/* /), and Javadoc (/* */), which can be used to generate documentation.
